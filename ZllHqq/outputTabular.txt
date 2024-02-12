@@ -1,0 +1,44 @@
+\begin{table}[H] 
+    \centering 
+    \resizebox{\textwidth}{!}{ 
+    \begin{tabular}{|l||c|c|} \hline
+          & trainNN \\ 
+        \hline
+        wzp6_ee_eeH_Hbb_ecm240 & 4.00e+05 $\pm$ 6.32e+02 & 2.22e+05 $\pm$ 4.71e+02 \\ 
+        wzp6_ee_eeH_Hcc_ecm240 & 4.00e+05 $\pm$ 6.32e+02 & 2.35e+05 $\pm$ 4.85e+02 \\ 
+        wzp6_ee_eeH_Hgg_ecm240 & 4.00e+05 $\pm$ 6.32e+02 & 2.38e+05 $\pm$ 4.88e+02 \\ 
+        wzp6_ee_eeH_Hss_ecm240 & 3.53e+05 $\pm$ 5.94e+02 & 2.10e+05 $\pm$ 4.58e+02 \\ 
+        wzp6_ee_eeH_Htautau_ecm240 & 4.00e+05 $\pm$ 6.32e+02 & 6.54e+04 $\pm$ 2.56e+02 \\ 
+        wzp6_ee_eeH_HWW_ecm240 & 4.00e+05 $\pm$ 6.32e+02 & 1.40e+05 $\pm$ 3.75e+02 \\ 
+        wzp6_ee_eeH_HZZ_ecm240 & 4.00e+05 $\pm$ 6.32e+02 & 1.54e+05 $\pm$ 3.92e+02 \\ 
+        wzp6_ee_mumuH_Hbb_ecm240 & 3.00e+05 $\pm$ 5.48e+02 & 1.82e+05 $\pm$ 4.27e+02 \\ 
+        wzp6_ee_mumuH_Hcc_ecm240 & 4.00e+05 $\pm$ 6.32e+02 & 2.58e+05 $\pm$ 5.08e+02 \\ 
+        wzp6_ee_mumuH_Hgg_ecm240 & 4.00e+05 $\pm$ 6.32e+02 & 2.62e+05 $\pm$ 5.12e+02 \\ 
+        wzp6_ee_mumuH_Hss_ecm240 & 4.00e+05 $\pm$ 6.32e+02 & 2.62e+05 $\pm$ 5.12e+02 \\ 
+        wzp6_ee_mumuH_Htautau_ecm240 & 4.00e+05 $\pm$ 6.32e+02 & 6.97e+04 $\pm$ 2.64e+02 \\ 
+        wzp6_ee_mumuH_HWW_ecm240 & 4.00e+05 $\pm$ 6.32e+02 & 1.55e+05 $\pm$ 3.93e+02 \\ 
+        wzp6_ee_mumuH_HZZ_ecm240 & 4.00e+05 $\pm$ 6.32e+02 & 1.69e+05 $\pm$ 4.11e+02 \\ 
+        p8_ee_ZZ_ecm240 & 5.62e+07 $\pm$ 7.49e+03 & 1.41e+05 $\pm$ 3.75e+02 \\ 
+        p8_ee_Zqq_ecm240 & 7.55e+07 $\pm$ 8.69e+03 & 2.58e+02 $\pm$ 1.61e+01 \\ 
+        wzp6_ee_mumu_ecm240 & 2.67e+07 $\pm$ 5.17e+03 & 9.70e+01 $\pm$ 9.85e+00 \\ 
+        wzp6_ee_ee_Mee_30_150_ecm240 & 8.54e+07 $\pm$ 9.24e+03 & 3.99e+03 $\pm$ 6.32e+01 \\ 
+        \hline 
+    \end{tabular}} 
+    \caption{Caption} 
+    \label{tab:my_label} 
+\end{table}
+
+
+Efficiency: 
+\begin{table}[H] 
+    \centering 
+    \resizebox{\textwidth}{!}{ 
+    \begin{tabular}{|l||c|c|} \hline
+          & wzp6_ee_eeH_Hbb_ecm240 & wzp6_ee_eeH_Hcc_ecm240 & wzp6_ee_eeH_Hgg_ecm240 & wzp6_ee_eeH_Hss_ecm240 & wzp6_ee_eeH_Htautau_ecm240 & wzp6_ee_eeH_HWW_ecm240 & wzp6_ee_eeH_HZZ_ecm240 & wzp6_ee_mumuH_Hbb_ecm240 & wzp6_ee_mumuH_Hcc_ecm240 & wzp6_ee_mumuH_Hgg_ecm240 & wzp6_ee_mumuH_Hss_ecm240 & wzp6_ee_mumuH_Htautau_ecm240 & wzp6_ee_mumuH_HWW_ecm240 & wzp6_ee_mumuH_HZZ_ecm240 & p8_ee_ZZ_ecm240 & p8_ee_Zqq_ecm240 & wzp6_ee_mumu_ecm240 & wzp6_ee_ee_Mee_30_150_ecm240 \\ 
+        \hline
+        trainNN & 0.555 & 0.588 & 0.596 & 0.594 & 0.164 & 0.351 & 0.384 & 0.608 & 0.646 & 0.656 & 0.655 & 0.174 & 0.386 & 0.421 & 0.003 & 0.000 & 0.000 & 0.000 \\ 
+        \hline 
+    \end{tabular}} 
+    \caption{Caption} 
+    \label{tab:my_label} 
+\end{table}
